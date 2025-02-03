@@ -14,7 +14,7 @@
     },
     {
         "domain": ".semrush.com",
-        "expirationDate": 1741107382.214036,
+        "expirationDate": 1741185233.823674,
         "hostOnly": false,
         "httpOnly": false,
         "name": "rbuid",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".semrush.com",
-        "expirationDate": 1743704053.735215,
+        "expirationDate": 1743777223.093118,
         "hostOnly": false,
         "httpOnly": true,
         "name": "_sm_bot_verify",
@@ -75,11 +75,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "3640875602828774261:9632361d0085751cd29580daf1c02c5fdf51a240a4c82f7096185f81db22e7b03344e41735f80dda08cd69161757db685d4ccf1a58b1bdad93474e143690c31e54482dd95293e40151318e1876abcdb71c8dc7df9167e7cc89f6a9ed9920cd5f45c6c408d73b0f2be966bb6bc90cf71c"
+        "value": "393428711701500095:074fa79c92aeacb39d09ced40c25be2dc8d80c20d8a4d4884ff145ffeb7503f85aceec3b69acdc0761033413f06662e12b5a6c66424ed12e703e8abd2394060a3011585b608b06584b7cc07f2ec2c9b29ee58fb868b53d60c9eb6f741616510ce83f3b30e0cef57adb452dddb7eda9"
     },
     {
         "domain": ".semrush.com",
-        "expirationDate": 1738606448,
+        "expirationDate": 1738679449,
         "hostOnly": false,
         "httpOnly": false,
         "name": "PHPSESSID",
@@ -88,11 +88,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "6f8d43afe3e751ff66bda6e73210848b"
+        "value": "8036e14882373f26ceb2d7ce49ffa046"
     },
     {
         "domain": ".semrush.com",
-        "expirationDate": 1738575357.349377,
+        "expirationDate": 1738679447.250095,
         "hostOnly": false,
         "httpOnly": true,
         "name": "SSO-JWT",
@@ -101,6 +101,6 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI2ZjhkNDNhZmUzZTc1MWZmNjZiZGE2ZTczMjEwODQ4YiIsImlhdCI6MTczODQ4ODY4NSwiaXNzIjoic3NvIiwidWlkIjoyNDQ2NjE3NH0.EP3fTtocB6fMBt9VvbFLjrpeyMwfE1rhmk9mYF24O_CLTzYheuQGFdaK7QHNQ6tiNF4o1GWFBMKXEqPM2ijpSA"
+        "value": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI4MDM2ZTE0ODgyMzczZjI2Y2ViMmQ3Y2U0OWZmYTA0NiIsImlhdCI6MTczODU3ODk1MCwiaXNzIjoic3NvIiwidWlkIjoyNDQ3NTA0Mn0.hw_s-K9rSIx9sHdVL7eoaRKK8_CnyrhXIE5ccaCofp0cvJxgXKYkl_GtTa2IxbqIt5vtLhA5TMajHEgsVXtfJw"
     }
 ]
